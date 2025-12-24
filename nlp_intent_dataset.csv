@@ -1,0 +1,15 @@
+User Query,Intent
+How do I reset my password?,Password_Reset
+I want to change my password,Password_Reset
+"I forgot my password, need help.",Password_Reset
+forgot password,Password_Reset
+What is my current balance?,Check_Balance
+How much money do I have in my account?,Check_Balance
+show my balance,Check_Balance
+I want to cancel my order.,Order_Cancellation
+cancel order, Order_Cancellation
+Can I return my recent purchase?,Order_Cancellation
+Where is my order?,Order_Status
+"Track my order, please.",Order_Status
+I need help with my account.,General_Support
+How do I contact customer support?,General_Support

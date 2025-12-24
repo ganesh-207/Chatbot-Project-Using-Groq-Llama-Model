@@ -1,0 +1,7 @@
+numpy
+pandas
+scikit-learn
+apyori
+ipykernel
+streamlit
+opencv-python
